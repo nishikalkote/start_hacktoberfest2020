@@ -110,3 +110,8 @@
 - Bio: SDET
 - Github: [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 
+#### Name: [nishikalkote](https://github.com/nishikalkote)
+- Place: Mel, Australia
+- Bio: Cyber enthusiast
+- Github: [nishikalkote](https://github.com/nishikalkote)
+
